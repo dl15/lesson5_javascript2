@@ -13,7 +13,7 @@ Diego Leon
 This app is a tax bracket calculator that determines what tax bracket an individual falls in depending on their taxable income. 
 
 ### View Project:
-https://github.com/dl15/lesson5_javascript2
+https://dl15.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 1. What an event handler is
